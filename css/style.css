@@ -1428,6 +1428,16 @@ body.offcanvas {
 .js .animate-box {
   opacity: 0; }
 
-  .timeline-icon{
-    font-size: 17px;
-  }
+.timeline-icon{
+  font-size: 17px;
+}
+
+.timeline-label a h2
+{
+  margin-bottom: 10px;
+}
+
+.timeline-label a p
+{
+  margin-bottom: 0px;
+}
